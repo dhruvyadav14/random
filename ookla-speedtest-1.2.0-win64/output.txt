@@ -1,0 +1,8 @@
+
+   Speedtest by Ookla
+
+      Server: EPB Fiber Optics - Chattanooga, TN (id: 3965)
+         ISP: EPB Fiber Optics
+Idle Latency:     4.97 ms   (jitter: 0.61ms, low: 4.40ms, high: 6.15ms)
+    Download:   373.29 Mbps (data used: 637.6 MB)                                                   
+                 30.69 ms   (jitter: 10.50ms, low: 12.61ms, high: 79.46ms)
